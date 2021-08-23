@@ -1,5 +1,5 @@
 jupyter==1.0.0
-jupyterlab==1.0.9
+jupyterlab==1.2.21
 
 
 Flask==1.0.2
